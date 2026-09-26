@@ -1,7 +1,7 @@
 # Heart-Failure-Mortality-Prediction
 Comparative machine learning analysis evaluating model parsimony (Full vs. Reduced feature sets) using Logistic Regression and Random Forest on heart failure mortality data.
 
-# 🫀 Heart Failure Mortality Prediction: Model Parsimony & Comparative Evaluation
+# Heart Failure Mortality Prediction: Model Parsimony & Comparative Evaluation
 
 A machine learning study evaluating the trade-off between model complexity and predictive performance on heart failure mortality data.
 
