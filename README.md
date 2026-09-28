@@ -3,7 +3,7 @@ Comparative machine learning analysis evaluating model parsimony (Full vs. Reduc
 
 # Heart Failure Mortality Prediction: Model Parsimony & Comparative Evaluation
 
-A machine learning study evaluating the trade-off between model complexity and predictive performance on heart failure mortality data.
+A machine learning study evaluating the trade-off between model complexity and predictive performance on heart failure mortality data (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data).
 
 This project explores whether a parsimonious model using only 4 clinically significant features can perform comparably to (or outperform) a full 12-feature model using **Logistic Regression** and **Random Forest Classifiers**.
 
@@ -52,5 +52,5 @@ All models evaluated on an 80/20 stratified train-test split ($N=299$ total reco
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/teu-usuario/Heart-Failure-Mortality-Prediction.git](https://github.com/teu-usuario/Heart-Failure-Mortality-Prediction.git)
+   git clone [https://github.com/[your-user]/Heart-Failure-Mortality-Prediction.git](https://github.com/[your-user]/Heart-Failure-Mortality-Prediction.git)
    cd Heart-Failure-Mortality-Prediction
