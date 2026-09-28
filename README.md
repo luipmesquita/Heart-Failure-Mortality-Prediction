@@ -64,5 +64,5 @@ All models evaluated on an 80/20 stratified train-test split ($N=299$ total reco
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/[your-user]/Heart-Failure-Mortality-Prediction.git](https://github.com/[your-user]/Heart-Failure-Mortality-Prediction.git)
+   git clone [https://github.com/luipmesquita/Heart-Failure-Mortality-Prediction.git](https://github.com/luipmesquita/Heart-Failure-Mortality-Prediction.git)
    cd Heart-Failure-Mortality-Prediction
