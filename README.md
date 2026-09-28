@@ -31,6 +31,18 @@ All models evaluated on an 80/20 stratified train-test split ($N=299$ total reco
 
 ---
 
+## Confusion Matrix
+
+<img width="574" height="455" alt="image" src="https://github.com/user-attachments/assets/174262b1-c294-472e-b31c-2a0c57589d70" />
+
+<img width="574" height="455" alt="image" src="https://github.com/user-attachments/assets/9d78cc80-0cf8-48d5-a1a8-073c9c3d9dea" />
+
+<img width="574" height="455" alt="image" src="https://github.com/user-attachments/assets/e26fd178-09ae-47a8-9638-b7bdca1a067f" />
+
+<img width="574" height="455" alt="image" src="https://github.com/user-attachments/assets/a26ed148-abda-436d-b17d-013ef500e521" />
+
+---
+
 ##  Key Findings & Insights
 
 1. **Feature Reduction Improves Performance:** Removing 8 secondary features increased MCC for both Logistic Regression (+0.043) and Random Forest (+0.042). This confirms that high feature dimensionality on small datasets can induce overfitting.
